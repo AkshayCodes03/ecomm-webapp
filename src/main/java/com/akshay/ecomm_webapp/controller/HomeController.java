@@ -1,4 +1,4 @@
-package com.akshay.ecomm_webapp;
+package com.akshay.ecomm_webapp.controller;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
